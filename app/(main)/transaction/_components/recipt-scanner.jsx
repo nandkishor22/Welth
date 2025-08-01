@@ -5,7 +5,6 @@ import { Camera, Loader2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { toast } from "sonner";
 import useFetch from "@/hooks/use-fetch";
-// Example: "Paid ₹12.50 at Cafe Coffee Day" => {amount: 12.50, merchant: "Cafe Coffee Day"}
 import { scanReceipt } from "@/actions/transaction";
 
 export function ReceiptScanner({ onScanComplete }) {
