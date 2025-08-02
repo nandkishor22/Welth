@@ -5,7 +5,7 @@
 [![Prisma](https://img.shields.io/badge/Prisma-5.0+-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img width="1470" alt="Welth Dashboard Preview" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1)">
+<img width="1470" alt="Welth Dashboard Preview" src="https://github.com/nandkishor22/Welth/blob/main/image.png?raw=true" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1)">
 
 An intelligent personal finance management platform with AI-powered insights, real-time budgeting, and comprehensive financial tracking.
 
@@ -143,7 +143,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 - Initial project structure from [Next.js Tutorial](https://youtu.be/egS6fnZAdzk)
 - Security implementation guidance from [ArcJet Docs](https://arcjet.com/docs)
 
----
-
-**Need Help?**  
-Open an issue or join our [Discord community](https://discord.gg/your-community-link) for support.
